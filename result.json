@@ -1,0 +1,1 @@
+{"field1": {"field": "login", "start_index": 75, "end_index": 80, "type": "button"}, "field2": {"field": "username", "start_index": 211, "end_index": 219, "type": "text"}, "field3": {"field": "password", "start_index": 224, "end_index": 232, "type": "password"}, "field4": {"field": "forgot password", "start_index": 287, "end_index": 302, "type": "button"}}

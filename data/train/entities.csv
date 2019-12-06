@@ -1,0 +1,97 @@
+Text,Type
+A Friend or colleauge ,checkbox
+Address,text
+Area Code,tel
+Blog Post,checkbox
+ Cellular Number ,tel
+City,text
+ Conference Full Access w Dinner member ,checkbox
+Conference Full Access w Dinner non member ,checkbox
+ Conference Regisration Fee ,checkbox
+ Credit Card Number ,number
+ Day ,tel
+ E mail ,email
+ Event Date of Event ,checkbox
+ Extra Fees ,checkbox
+ Female ,checkbox
+ First Name ,text
+ Full Name ,text
+ Google ,checkbox
+ Home Number ,tel
+ I have read understood and accepted the PRIVACY POLICY for membership ,checkbox
+ I have read understood and accepted the rules for membership ,checkbox
+ If Yes When were you enrolled ,text
+ Last Name ,text
+ Male ,checkbox
+ Mobile Phone Number ,tel
+ Month ,tel
+ Name ,text
+ Name of Parent Guardian s ,text
+ News Article ,checkbox
+ News Article ,checkbox
+ NO ,radio
+ No ,checkbox
+ Number ,tel
+ Number of people attending ,number
+ Password Forgot password ,password
+ Phone Number ,tel
+ Post Your Answer ,submit
+ Postal Zip Code ,text
+ Prefix ,tel
+ Register ,submit
+ Remember me ,checkbox
+ Security Code ,number
+ Signature ,hidden
+ Signature Date ,tel
+ State Province ,text
+ Street Address ,text
+ Street Address Line ,text
+ Submit ,submit
+ Submit Application ,submit
+ Submit Form ,submit
+ Username or email address ,text
+ Website ,text
+ Work Number ,tel
+ Year ,tel
+ Year Membership ,checkbox
+ YES ,radio
+ Yes ,checkbox
+ Your Parish ,text
+ Your Vicar ,text
+Apply for membership,submit
+Confirm Password,password
+Create My Account,submit
+Email,email
+Email confirmation,email
+Enter your username or email,text
+Enteryouremail,email
+Full name,text
+Go,submit
+I accept the Terms of Service and Privacy Policy ,checkbox
+I agree to the Terms of Service and Privacy Policy ,checkbox
+I agree to the Terms of Service and Privacy Policy ,checkbox
+I d like to receive updates via email about GitLab ,checkbox
+Important,radio
+Keep me signed in,checkbox
+Log In,submit
+Mobile Number,text
+Name,text
+Next,submit
+not important,radio
+Password,password
+Register,submit
+Search,submit
+Search for ,text
+Send Reset Instructions,submit
+Sign in,submit
+Sign up for GitHub,submit
+Submit,submit
+User Name,text
+User Name e Mail ,text
+Username,text
+Username or email,text
+username,text
+password,password
+login,button
+register,button
+forgot password,button
